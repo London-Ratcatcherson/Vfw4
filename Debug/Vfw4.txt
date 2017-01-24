@@ -1,0 +1,22 @@
+01/24/2017  11:40:18    Application path and name: C:\Users\Percy\Documents\Visual Studio 2015\Projects\Vfw4\Debug\Vfw4.exe
+01/24/2017  11:40:18    Command line: 
+01/24/2017  11:40:22    MCI Create
+01/24/2017  11:41:27    Capture start - Video for Windows version 0x10a be
+01/24/2017  11:41:29    Vfw device : Microsoft WDM Image Capture (Win32)
+01/24/2017  11:41:29    Version    : Version:  10.0.14393.0
+01/24/2017  11:41:36    CAPDRIVERCAPS :
+01/24/2017  11:41:36    wDeviceIndex;                   0x0000     // Driver index in system.ini 
+01/24/2017  11:41:36    fHasOverlay;                    false      // Can device overlay?        
+01/24/2017  11:41:36    fHasDlgVideoSource;             true       // Has Video source dlg?      
+01/24/2017  11:41:36    fHasDlgVideoFormat;             true       // Has Format dlg?            
+01/24/2017  11:41:36    fHasDlgVideoDisplay;            false      // Has External out dlg?      
+01/24/2017  11:41:36    fCaptureInitialized;            true       // Driver ready to capture?   
+01/24/2017  11:41:36    fDriverSuppliesPalettes;        false      // Can driver make palettes?  
+01/24/2017  11:41:36    
+01/24/2017  11:41:36    The following are always NULL on Win32
+01/24/2017  11:41:36    hVideoIn;                       0x0000     // Driver In channel          
+01/24/2017  11:41:36    hVideoOut;                      0x0000     // Driver Out channel         
+01/24/2017  11:41:36    hVideoExtIn;                    0x0000     // Driver Ext In channel      
+01/24/2017  11:41:36    hVideoExtOut;                   0x0000     // Driver Ext Out channel     
+01/24/2017  11:41:36    
+01/24/2017  11:41:45    Capture driver release
